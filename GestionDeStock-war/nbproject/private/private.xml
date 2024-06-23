@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/USER/Documents/NetBeansProjects/GestionDeStock/GestionDeStock-war/src/java/interfaces/addMarque.java</file>
+            <file>file:/C:/Users/USER/Documents/NetBeansProjects/GestionDeStock/GestionDeStock-war/src/java/interfaces/ajouterProduit.java</file>
+            <file>file:/C:/Users/USER/Documents/NetBeansProjects/GestionDeStock/GestionDeStock-war/src/java/interfaces/supprimerProduit.java</file>
+            <file>file:/C:/Users/USER/Documents/NetBeansProjects/GestionDeStock/GestionDeStock-war/src/java/interfaces/gerer.java</file>
+            <file>file:/C:/Users/USER/Documents/NetBeansProjects/GestionDeStock/GestionDeStock-war/src/java/interfaces/ajouterStock.java</file>
+            <file>file:/C:/Users/USER/Documents/NetBeansProjects/GestionDeStock/GestionDeStock-war/src/java/interfaces/updateProduit.java</file>
+            <file>file:/C:/Users/USER/Documents/NetBeansProjects/GestionDeStock/GestionDeStock-war/src/java/interfaces/allMarques.java</file>
+            <file>file:/C:/Users/USER/Documents/NetBeansProjects/GestionDeStock/GestionDeStock-war/src/java/interfaces/allStocks.java</file>
+            <file>file:/C:/Users/USER/Documents/NetBeansProjects/GestionDeStock/GestionDeStock-war/src/java/interfaces/onestock.java</file>
+            <file>file:/C:/Users/USER/Documents/NetBeansProjects/GestionDeStock/GestionDeStock-war/src/java/interfaces/allproducts.java</file>
+        </group>
+    </open-files>
+</project-private>
