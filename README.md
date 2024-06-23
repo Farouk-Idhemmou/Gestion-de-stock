@@ -3,4 +3,5 @@
 -start the glassfish server and the data base "simple"
 -click on "clean and build" by right click on ejb , then "deploy" it .
 -click on "clean and build" by right click on war , then "deploy" it .
--run it 
+-click on "clean and build" by right click on the root project , then "deploy" it .
+-run the root project 
