@@ -1,3 +1,6 @@
 -clone repository
 -open the project in netbeans v-11
+-start the glassfish server and the data base "simple"
+-click on "clean and build" by right click on ejb , then "deploy" it .
+-click on "clean and build" by right click on war , then "deploy" it .
 -run it 
