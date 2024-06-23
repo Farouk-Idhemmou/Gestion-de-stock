@@ -1,0 +1,3 @@
+-clone repository
+-open the project in netbeans v-11
+-run it 
